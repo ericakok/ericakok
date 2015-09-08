@@ -1,0 +1,234 @@
+html {
+  background: url(back.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#body {
+  text-align: left;
+  height: 20px;
+}
+
+#heading {
+  height: 60px;
+  font-weight: 450px;
+  font-size: 40px;
+  margin-top: 50px;
+  top: 50%;
+}
+
+#logo {
+  height: 120px;
+  align-items: center;
+}
+
+#head2 {
+  font-size: 21px;
+  color: rgb(0,163,233);
+}
+
+#Nav {
+  font-size: 17px;
+}
+
+#home {
+  -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+    color: rgb(150, 182, 44);
+}
+
+#home:hover {
+  cursor: pointer;
+  color: rgb(122, 148, 39);
+}
+
+#res {
+  -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+    color: black;
+}
+
+#res:hover {
+  cursor: pointer;
+  color: rgb(150, 182, 44);
+}
+
+#proj {
+  -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+    color: black;
+}
+
+#proj:hover {
+  cursor: pointer;
+  color: rgb(150, 182, 44);
+}
+
+#cont {
+  -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+    color: black;
+}
+
+
+#cont:hover {
+  cursor: pointer;
+  color: rgb(150, 182, 44);
+}
+
+
+#Hello {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+#little {
+  font-size: 35px;
+}
+
+#summary {
+  font-size: 15px;
+  text-align: justify;
+  width: 420px;
+}
+
+
+
+
+#resume {
+  background-color: rgb(243,23,89);
+  border-radius: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: rgb(255,255,255);
+  -moz-transition: all .4s ease-in;
+    -o-transition: all .4s ease-in;
+    -webkit-transition: all .4s ease-in;
+    transition: all .4s ease-in;
+}
+
+#resume:hover {
+  background-color: rgb(201, 49, 94);
+  cursor: pointer;
+}
+
+#work {
+  background-color: rgb(32,209,222);
+  border-radius: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: rgb(255,255,255);
+  -moz-transition: all .4s ease-in;
+    -o-transition: all .4s ease-in;
+    -webkit-transition: all .4s ease-in;
+    transition: all .4s ease-in;
+}
+
+#work:hover {
+  background-color: rgb(52, 184, 193);
+  cursor: pointer;
+}
+
+#contact {
+  background-color: rgb(166,206,32);
+  border-radius: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: rgb(255,255,255);
+  -moz-transition: all .4s ease-in;
+    -o-transition: all .4s ease-in;
+    -webkit-transition: all .4s ease-in;
+    transition: all .4s ease-in;
+}
+
+#contact:hover {
+  background-color: rgb(150, 182, 44);
+  cursor: pointer;
+}
+
+
+.pic {
+  height: 27px;
+}
+
+h3 {
+  background-color: rgb(243,23,89);
+  color: rgb(255,255,255);
+  font-size: 100%;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  bottom: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 4px;
+  padding-bottom: 1px;
+}
+
+body {
+  font-family: 'Marcellus', serif;
+}
+
+#erica {
+  height: 740px;
+  border-radius: 40px;
+}
+
+td {
+  padding-left: 7px;
+  padding-right: 7px;
+  text-align: left;
+  font-size: 12px;
+}
+
+#phone {
+  height: 40px;
+}
+
+#email {
+  height: 40px;
+}
+
+#follow {
+  height: 40px;
+  border-radius: 200px;
+}
+
+#copy {
+  height: 17px;
+}
+
+#rights {
+  color: black;
+}
+
+u {
+    text-decoration: none;
+    border-bottom: 2px solid;
+}​
+
+hr {
+  display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}

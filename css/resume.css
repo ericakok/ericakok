@@ -1,0 +1,171 @@
+html {
+  background: url(back.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#body {
+  text-align: left;
+  height: 20px;
+}
+
+#heading {
+  height: 60px;
+  font-weight: 450px;
+  font-size: 40px;
+  margin-top: 50px;
+  top: 50%;
+}
+
+#logo {
+  height: 120px;
+  align-items: center;
+  border-radius: 50%;
+}
+
+#head2 {
+  font-size: 21px;
+  color: rgb(0,163,233);
+}
+
+#Nav {
+  font-size: 17px;
+}
+
+#home {
+  -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+    color: black;
+}
+
+#home:hover {
+  cursor: pointer;
+  color: rgb(122, 148, 39);
+}
+
+#res {
+  -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+    color: rgb(150, 182, 44);
+}
+
+#res:hover {
+  cursor: pointer;
+  color: rgb(122, 148, 39);
+}
+
+#proj {
+  -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+    color: black;
+}
+
+#proj:hover {
+  cursor: pointer;
+  color: rgb(150, 182, 44);
+}
+
+#cont {
+  -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+    color: black;
+}
+
+
+#cont:hover {
+  cursor: pointer;
+  color: rgb(150, 182, 44);
+}
+
+#Two {
+  text-align: left;
+}
+
+#columnOne{
+  width: 180px;
+}
+
+
+h2 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.heads {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.pic {
+  height: 27px;
+}
+
+h3 {
+  background-color: rgb(243,23,89);
+  color: rgb(255,255,255);
+  font-size: 100%;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  bottom: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 4px;
+  padding-bottom: 1px;
+}
+
+body {
+  font-family: 'Marcellus', serif;
+}
+
+#erica {
+  height: 740px;
+  border-radius: 40px;
+}
+
+td {
+  padding-left: 7px;
+  padding-right: 7px;
+  text-align: left;
+  font-size: 12px;
+}
+
+tr {
+  text-align: left;
+}
+
+#phone {
+  height: 40px;
+}
+
+#email {
+  height: 40px;
+}
+
+#follow {
+  height: 40px;
+  border-radius: 200px;
+}
+
+#copy {
+  height: 17px;
+}
+
+#rights {
+  color: black;
+}
+
+u {
+    text-decoration: none;
+    border-bottom: 2px solid;
+}​
