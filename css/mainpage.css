@@ -56,7 +56,7 @@ html {
 
 #res:hover {
   cursor: pointer;
-  color: rgb(150, 182, 44);
+  color: rgb(122, 148, 39);
 }
 
 #proj {
@@ -69,7 +69,7 @@ html {
 
 #proj:hover {
   cursor: pointer;
-  color: rgb(150, 182, 44);
+  color: rgb(122, 148, 39);
 }
 
 #cont {
@@ -83,8 +83,10 @@ html {
 
 #cont:hover {
   cursor: pointer;
-  color: rgb(150, 182, 44);
+  color: rgb(122, 148, 39);
 }
+
+/* #One body starts HERE. */
 
 
 #Hello {
@@ -101,8 +103,6 @@ html {
   text-align: justify;
   width: 420px;
 }
-
-
 
 
 #resume {
@@ -167,19 +167,7 @@ html {
   height: 27px;
 }
 
-h3 {
-  background-color: rgb(243,23,89);
-  color: rgb(255,255,255);
-  font-size: 100%;
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
-  position: relative;
-  bottom: 1px;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-top: 4px;
-  padding-bottom: 1px;
-}
+
 
 body {
   font-family: 'Marcellus', serif;
@@ -195,6 +183,63 @@ td {
   padding-right: 7px;
   text-align: left;
   font-size: 12px;
+}
+
+/* PROJECT PAGE (#third) starts HERE. */
+#latest {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#ACG {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#description {
+  text-align: justify;
+  width: 450px;
+}
+
+.whpc {
+  height: 120px;
+}
+
+.whpc:hover {
+  height: 350px;
+}
+
+/* CONTACT PAGE HERE. */
+
+#call {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+#reach {
+  font-size: 17px;
+}
+
+#mail {
+  font-size: 25px;
+}
+
+
+
+/* LOWER INFO. */
+
+h3 {
+  background-color: rgb(222,48,100);
+  color: rgb(255,255,255);
+  font-size: 100%;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  bottom: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 4px;
+  padding-bottom: 1px;
 }
 
 #phone {
